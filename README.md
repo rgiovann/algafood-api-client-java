@@ -1,1 +1,1 @@
-# algafood-api-client-java
+#Java client for testing the Algafood API stored in the Algafood-Spring-Boot repository
